@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projekt_Programowanie.Baza" Collapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAACDAAKAgAEAAACQCAAAAAAIAgQAAAAAEAAAAAA=</HashCode>
+      <FileName>Baza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Programowanie.Bus" Collapsed="true">
+    <Position X="19.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Bus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Programowanie.Ciezarowka" Collapsed="true">
+    <Position X="21.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Ciezarowka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Programowanie.Motor" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Motor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Programowanie.Pojazd" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEQAAAAAAEAAAAAAAAAAEAAYAAAAAAAgAIAAAAAQ=</HashCode>
+      <FileName>Pojazd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Programowanie.Pojazdy_robocze" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Pojazdy_robocze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Programowanie.Pojazdy_specialistyczne" Collapsed="true">
+    <Position X="17.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAQ=</HashCode>
+      <FileName>Pojazdy_specialistyczne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt_Programowanie.Samochod" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Samochod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

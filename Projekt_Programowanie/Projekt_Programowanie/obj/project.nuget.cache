@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oCczhNLIvq4R6EmfvrEtE/IhUUUcRUs/ZFS17tfrmDDD8etkp4foBLQX38bex0FLR0VadYQ2Lypj+67gLdzlOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1jaku\\Desktop\\Projekt_Programowanie\\Projekt_Programowanie\\Projekt_Programowanie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1jaku\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
